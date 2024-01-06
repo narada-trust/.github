@@ -1,9 +1,9 @@
-# [Narada Trust] (https://narada-trust.org/)
+# [Narada Trust](https://narada-trust.org/)
 
 Narada Trust is established with the sole objective of illuminating the path towards spiritual growth by transcending cultural and religious boundaries. We hope to empower individuals and communities with true essence of life, cultivating understanding, compassion, and respect for one another.
 
 One of the main undertakings of the trust is to digitize and curate an extensive repository of easily accessible religious texts from various traditios, accompanied by insightful interpretations from renowned saints and spiritual leaders.
-To that end, we have started curating the data from various [`shastras` of sanatana dharma here]()
+To that end, we have started curating the data from various [`shastras` of sanatana dharma here](https://github.com/narada-trust/sanatana-shastra-library)
 
 Main objectives:
 
